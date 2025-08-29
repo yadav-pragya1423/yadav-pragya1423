@@ -18,7 +18,7 @@
 - 📚 **Learning:** NumPy, Pandas, Scikit-learn, System Design Basics
 - 🤝 **Open to:** SDE/Intern roles, Open-source collaboration, Hackathons
 - 🌐 **Location:** Gurugram, Haryana, India
-- 🎓 **Education:** [Your College/University]
+- 🎓 **Education:** [MCA From Kurukshetra university Kurukshetra]
 
 ---
 
